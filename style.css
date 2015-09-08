@@ -1,0 +1,90 @@
+body
+{
+color: ;
+	}
+
+h1
+{
+width: ;
+margin: auto;
+display: inline-block;
+margin-bottom: 50px;
+} 
+h2
+{
+width:px;	
+margin: auto;
+display: inline-block;
+margin-bottom: 50px;
+border: 3px solid orange;
+} 
+.h2a
+{
+	 color: blue;
+	 background-color: red;
+	}
+	.h2b
+{
+	background-color: green;
+	 color: ;
+	}
+	.h2c
+{
+	 color: green;
+	 background-color: blue;
+	}
+nav
+{
+float: left;
+width: 150px;
+border: 5px solid blue;
+} 
+
+section
+{
+margin-left: 170px;
+border: 1px solid blue;
+padding-left: 10px;
+border-bottom: 25px solid blue;
+} 
+aside
+{
+float:left ;
+left: ;
+}
+.par 
+{
+	color: blue;
+	}
+h4	
+	{
+	color:red;
+	
+	}
+article	
+	{
+	 display: inline;
+	}
+.h1a
+{
+	color: white;
+	background-color: blue;
+	margin-left: 150px;
+	}
+img
+{
+	
+border: 10px solid red;	
+	
+	}	
+	
+footer
+{
+	
+	width:;
+	}
+h4
+{
+	background-color: blue;
+	
+	}
